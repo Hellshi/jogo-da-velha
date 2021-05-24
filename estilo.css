@@ -1,0 +1,144 @@
+
+
+#principal {
+
+    width: 452px;
+    height: 450px;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px solid black;
+    clear: both;
+
+}
+
+
+#a1 {
+
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-top: none;
+    border-left: none;
+    float: left;
+
+}
+
+#a2 {
+
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-top: none;
+    border-left: none;
+    float: left;
+
+}
+
+#a3 {
+
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    float: left;
+
+}
+
+#a4 {
+
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-top: none;
+    border-left: none;
+    float: left;
+
+}
+
+#a5 {
+
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-top: none;
+    border-left: none;
+    float: left;
+
+}
+
+#a6 {
+
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    float: left;
+
+}
+
+#a7 {
+
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    float: left;
+
+}
+
+#a8 {
+
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    float: left;
+
+}
+
+#a9 {
+
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    float: left;
+
+}
+
+button {
+
+    margin-top: 20px;
+    background-color: rgb(197, 197, 197);
+    margin-left: 200px;
+    border: none;
+    font-size: 0.9em;
+    padding: 15px;
+
+}
+
+
+.x {
+
+    background: url(X-png-23.png) no-repeat center;
+    background-size: 120px;
+
+}
+
+.circ {
+
+    background: url(426-4263390_circulo-png-vermelho-circulo-vermelho-para-thumbnail.png) no-repeat center;
+    background-size: 120px;
+
+}
